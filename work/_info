@@ -1,0 +1,112 @@
+m255
+K4
+z2
+Z0 !s12c _opt3
+Z1 !s99 nomlopt
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+!s11f vlog 2025.2 2025.05, May 31 2025
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z2 dC:/Users/sulec/Desktop/FSM_traffic_light
+T_opt3
+!i145 1
+!i144 0
+!s110 1773325619
+V[k?n<2D0Vbe0M_F5AWGf^2
+04 16 4 work tb_traffic_light fast 0
+=1-e0d4e8da4873-69b2cd32-264-1358
+R1
+!s12f OEM100
+!s12b OEM100
+!s124 OEM10U2 
+!s135 nogc
+o-quiet -auto_acc_if_foreign -work work +acc
+tCvgOpt 0 defaultOptions 1107585188
+n@_opt3
+OL;O;2025.2;82
+vtb_traffic_light
+Z3 2tb_traffic_light.sv
+Z4 DXx6 sv_std 3 std 0 22 @5XbY]_OacJl=`ToSm<M^0
+!s110 1773325608
+!i10b 1
+!s100 UmZbQ[4n2F_R>J6HAk4]_0
+I3@2P@nI9M97?IIVJkBgKB1
+S1
+R2
+w1773325438
+Z5 8tb_traffic_light.sv
+Z6 Ftb_traffic_light.sv
+!i122 13
+L0 3 34
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+Z8 OL;L;2025.2;82
+r1
+!s85 0
+31
+!s108 1773325608.000000
+Z9 !s107 tb_traffic_light.sv|
+Z10 !s90 -reportprogress|300|tb_traffic_light.sv|
+!i113 0
+Z11 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z12 tCvgOpt 0 defaultOptions 1085333592
+vtraffic_light
+2traffic_light.sv
+R4
+!s110 1773325576
+!i10b 1
+!s100 IYX6`M5GF:E<kJ9HIkS0?0
+Il5Q0>Ji<jg6UU9f5GRA<80
+S1
+R2
+w1773171979
+8traffic_light.sv
+Ftraffic_light.sv
+!i122 12
+L0 1 82
+R7
+R8
+r1
+!s85 0
+31
+!s108 1773325576.000000
+!s107 traffic_light.sv|
+!s90 -reportprogress|300|traffic_light.sv|
+!i113 0
+R11
+R12
+vtraffic_light_tb
+R3
+R4
+!s110 1773175616
+!i10b 1
+!s100 7<FTBdO6Rakc7hiFQV1]N3
+Iz2hC:^Z=OQMdUXg1^H@cL3
+S1
+R2
+w1773174599
+R5
+R6
+!i122 2
+L0 3 62
+R7
+R8
+r1
+!s85 0
+31
+!s108 1773175616.000000
+R9
+R10
+!i113 0
+R11
+R12
